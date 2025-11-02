@@ -1,0 +1,6 @@
+﻿  ConsoleApplication12.cpp
+C:\Users\stask\source\repos\ConsoleApplication12\ConsoleApplication12\ConsoleApplication12.cpp(116,40): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\stask\source\repos\ConsoleApplication12\ConsoleApplication12\ConsoleApplication12.cpp(122,40): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\stask\source\repos\ConsoleApplication12\ConsoleApplication12\ConsoleApplication12.cpp(127,41): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\stask\source\repos\ConsoleApplication12\ConsoleApplication12\ConsoleApplication12.cpp(168,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+LINK : fatal error LNK1168: не удается открыть C:\Users\stask\source\repos\ConsoleApplication12\x64\Debug\ConsoleApplication12.exe для записи
